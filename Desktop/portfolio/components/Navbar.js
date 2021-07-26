@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 export default function Navbar(){
-
+ //nuevo
     return (
         <>
           <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
